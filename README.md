@@ -6,7 +6,7 @@ WooCommerce provides a lot of power and flexibility for simple storefronts out o
 
 ## Source Files Description
 
-The this repository includes a starting theme, which was developed in Rachel McCollin's earlier [Developing a WooCommerce Theme](https://code.tutsplus.com/courses/developing-a-woocommerce-theme) course. Then as features are developed in the course, modifications are added to that theme.
+This repository includes a starting theme, which was developed in Rachel McCollin's earlier [Developing a WooCommerce Theme](https://code.tutsplus.com/courses/developing-a-woocommerce-theme) course. Then as features are developed in the course, modifications are added to that theme.
 
 ------
 
